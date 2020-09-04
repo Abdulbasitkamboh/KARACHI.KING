@@ -78,7 +78,7 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
 \033[1;96mAuthor  \033[1;93m: \033[1;92mA͓͔͚.̟̘B͎͚̞A͚͔̦S͍̠̙I͖͇̠T͙͇͜
 \033[1;96mInstagram \033[1;93m: \033[1: a__b__d__u__l____b__a__s__i__t
 \033[1;96mFacebook  \033[1;93m: \033[1: ABDULBASITKINGPK
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KARACHI.KING
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Abdulbasitkamboh/KARACHI.KING
 \033[1;91m======================================="""
 
 def tik():
@@ -112,7 +112,7 @@ print  """\033[1;91m
 \033[1;96mAuthor  \033[1;93m: \033[1;92m 🅰.🅱🅰🆂🅸🆃
 \033[1;96mInstagram \033[1;93m: \033[1;92m a__b__d__u__l____b__a__s__i__t
 \033[1;96mFacebook  \033[1;93m: \033[1;92m ABDULBASITKINGPK
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KARACHI.KING
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Abdulbasitkamboh/KARACHI.KING
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
